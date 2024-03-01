@@ -17,6 +17,8 @@ This is an example report that uses COVID-19 data from the New York Times to ill
 
 First, we load some necessary libraries, define some key variables, then read in the data:
 
+Making edits for the class.
+
 ```{r}
 library(dplyr)
 library(ggplot2)
